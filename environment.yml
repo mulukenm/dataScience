@@ -1,0 +1,13 @@
+conda create --name ds-viz-env \
+> openpyxl \
+> pygal   \
+> pyodbc  \
+> pandas \
+> numpy \ 
+> seaborn \
+> matplotlib \
+> statsmodels \
+> requests \
+> time \
+> xlrd \
+> warnings \
