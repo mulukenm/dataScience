@@ -2,6 +2,7 @@ conda create --name ds-viz-env \
 > openpyxl \
 > pygal   \
 > pyodbc  \
+> plotly  \
 > pandas \
 > numpy \ 
 > seaborn \
