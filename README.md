@@ -9,8 +9,7 @@ The notebooks compiled in this repository are data science theories and applicat
 
 [Data Types Structure and Algorithms](https://github.com/mulukenm/dataScience/blob/master/02-DS_Data_Types_Structure_and_Algorithms.ipynb)
 
-
-[Data and Database(https://github.com/mulukenm/dataScience/blob/master/03-DS_Data_and_Database.ipynb)
+[Data and Database](https://github.com/mulukenm/dataScience/blob/master/03-DS_Data_and_Database.ipynb)
 
 [Statistical Analysis](https://github.com/mulukenm/dataScience/blob/master/04-DS_Statistical_Analysis.ipynb)
 
@@ -24,7 +23,7 @@ The notebooks compiled in this repository are data science theories and applicat
 
 [ML Forest Cover Types](https://github.com/mulukenm/dataScience/blob/master/09-DS_ML_Covertypes.ipynb)
 
-[Data and Database(https://github.com/mulukenm/dataScience/blob/master/03-DS_Data_and_Database.ipynb)
+[Data and Database](https://github.com/mulukenm/dataScience/blob/master/03-DS_Data_and_Database.ipynb)
 
 [ArcGIS API](https://github.com/mulukenm/dataScience/blob/master/10-DS_ArcGIS_API_using_Python.ipynb)
 
